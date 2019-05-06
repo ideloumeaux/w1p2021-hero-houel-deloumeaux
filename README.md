@@ -4,7 +4,7 @@ URL du site : http://votre-url-ici.com
 
 ### Groupe
 
-- Amélie Deloumeaux
+- Amélie Houel
 - Inès Deloumeaux
 
 ## Prologue
